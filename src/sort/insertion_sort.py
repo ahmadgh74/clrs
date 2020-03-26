@@ -1,5 +1,3 @@
-
-
 def insertion_sort(array):
     for j in range(1, len(array)):
         key = array[j]
