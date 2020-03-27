@@ -1,4 +1,3 @@
-<<<<<<< HEAD:src/sort/insertion_sort.py
 def insertion_sort(array):
     for j in range(1, len(array)):
         key = array[j]
@@ -10,5 +9,3 @@ def insertion_sort(array):
         array[i + 1] = key
 
     return array
-=======
->>>>>>> bab410c96886ceb91a3d142b1de3fab8cd22e8b3:sort/insertion_sort.py
